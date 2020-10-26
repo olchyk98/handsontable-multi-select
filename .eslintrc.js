@@ -29,6 +29,7 @@ module.exports = {
     'no-return-assign': 0,
     'function-paren-newline': 'off',
     'global-require': 0,
+    'class-methods-use-this': 0,
     'import/extensions': 0,
     'import/no-extraneous-dependencies': [ 'error' ],
     'no-nested-ternary': 'off',
